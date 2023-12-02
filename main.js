@@ -60,8 +60,3 @@ sr.reveal('i', {
   viewFactor: 0.2,
   rotate: { x: 0, y: 900, z: 0 },
 });
-
-function playMusic() {
-  var audio = document.getElementById('backgroundMusic');
-  audio.play();
-}
